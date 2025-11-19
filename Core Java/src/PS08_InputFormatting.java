@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PS08InputFormatting {
+public class PS08_InputFormatting {
 
     public static void main(String[] args) {
 

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PS09StaticBlockExample {
+public class PS09_StaticBlockExample {
 
     static int B;
     static int H;
